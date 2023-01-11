@@ -1,8 +1,7 @@
 Conda Buildpack
 ===============
 
-This is a fork of Heroku build pack for conda (https://github.com/kennethreitz/conda-buildpack) that supports Python 3. It should be used in multi-buildpack setup together with Heroku's official build pack (see
-https://github.com/ddollar/heroku-buildpack-multi).
+This is a fork of Heroku build pack for conda (https://github.com/kennethreitz/conda-buildpack) that supports Python 3. It should be used together with Heroku's official build pack.
 
 
 This buildpack enables the installation of binary packages through the
